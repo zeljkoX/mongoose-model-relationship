@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-model-relationship",
+  "version": "0.0.0",
+  "description": "Create relationship between mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "relationship",
+    "model"
+  ],
+  "author": "Zeljko Markovic",
+  "license": "MIT"
+}
